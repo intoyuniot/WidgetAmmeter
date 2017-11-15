@@ -1,0 +1,17 @@
+{
+    "name": "WidgetAmmeter",
+    "version": "1.0.0",
+    "keywords": "Widget,Ammeter",
+    "description": "电流表应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetAmmeter.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
